@@ -31,6 +31,17 @@ O projeto visa oferecer uma opção de dispensador de ração automático feito 
 * Pesa a ração oferecida
 * Informa quando o alimentador está sem ração
 
+### Hardware
+<p align="center">
+<img alt="Logo littlePet" src="https://github.com/Barbara-BB/LittlePet/blob/main/Docs/imagens/Itens_LittlePet.png" height="800">
+</p>
+
+1. WIFI-Lora com Display
+2. Ponte H dupla Driver motor
+3. Motor 12V 15KGF
+4. HX711
+5. Balança
+6. Fonte 12DC
 
 
 
