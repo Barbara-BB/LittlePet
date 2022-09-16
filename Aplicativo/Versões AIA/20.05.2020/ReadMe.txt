@@ -1,0 +1,1 @@
+Um pouco de limpeza, reparei que algumas coisas eram inuteis enquanto escrevia para o wiki e outras que eu poderia melhorar.

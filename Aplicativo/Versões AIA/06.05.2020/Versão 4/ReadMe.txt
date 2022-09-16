@@ -1,0 +1,1 @@
+Troquei um insert list pelo add in list por ser mais facil de entender e simples.

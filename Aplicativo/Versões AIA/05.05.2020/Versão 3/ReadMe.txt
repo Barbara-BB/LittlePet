@@ -1,0 +1,1 @@
+Boas praticas no que ja havia feito com o agendamento, agora com listas e for item para melhorar o desempenho, com o que aprendi fazendo o MoleMesh2.

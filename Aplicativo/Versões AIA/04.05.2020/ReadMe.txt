@@ -1,0 +1,1 @@
+Basico de conexão com o bluetooth + testes iniciais com agendamento

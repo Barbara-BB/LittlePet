@@ -1,0 +1,1 @@
+Acertei ou estou bem perto de aceitar o problema com os botões das semanas, que não estavam funcionando corretamente na hora de deselecionar/selecionar novamente, mas ainda estou com um problema estranho de após um botao ficar verde e selecionar, o valor dele continua verdadeiro mesmo eu fazendo um for para deixar todos falsos.

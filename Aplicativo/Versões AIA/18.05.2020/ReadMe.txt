@@ -1,0 +1,1 @@
+Consertei o alarme, os horarios de alarme no dia quando retirados do banco não eram recuperados devidamente, então o alarme não acionava.

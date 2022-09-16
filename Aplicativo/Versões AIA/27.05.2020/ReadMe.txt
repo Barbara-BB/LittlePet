@@ -1,0 +1,1 @@
+Consertei um Bug em que ao tentar excluir um horario adicionado recentemente ele não era tirado do banco de dados por possuir um -

@@ -1,0 +1,1 @@
+Sistema de login com criação de conta com uma verificação simples de senha, e ordenação do banco de dados para isso, cada usuario tendo sua agenda e seu diferenciador.

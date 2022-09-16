@@ -1,0 +1,1 @@
+Agora o sistema de login verifica se a conta ja existe antes de criar, se todos os campos foram preenchidos antes de tentar logar ou criar uma conta, também arrumei um bug em que ao logar de novo uma segunda vez os valores da lista eram duplicados, e que ao tentar adicionar um novo valor o aplicativo não respondia mais.

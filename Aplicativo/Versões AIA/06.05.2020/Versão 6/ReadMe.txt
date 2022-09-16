@@ -1,0 +1,1 @@
+Consertei o problema dos valores antes selecionados.
