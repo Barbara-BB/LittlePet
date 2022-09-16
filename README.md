@@ -83,3 +83,7 @@ Banco de dados utilizado.
 
 </p>
 
+## Funcionamento
+Clique para assistir o vídeo do projeto funcionando
+[![Watch the video](https://github.com/Barbara-BB/LittlePet/blob/main/Docs/imagens/logo%20little%20pet.png)](https://youtu.be/iSab5CW5FqI)
+
